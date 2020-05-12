@@ -1,0 +1,5 @@
+numpy
+tensorflow
+librosa
+matplotlib
+h5py
