@@ -1,6 +1,6 @@
 # Masklass
 
-DL Model to classify people speaking with mask on vs people speaking without mask on.
+ML Model to classify people speaking with mask on vs people speaking without mask on.
 
 ## Installing
 
